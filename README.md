@@ -1,4 +1,3 @@
-# hello-world
-My first repository
+# hello-developer
 
-This is the first time I'm usig github and it's just great !!!
+My new developer website in C#.
